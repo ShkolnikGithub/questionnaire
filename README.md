@@ -1,5 +1,5 @@
 # test-task-data-master
-![Иллюстрация к проекту](http://цтриго.рф/wp-content/uploads/2020/04/qcoP8ifuhA-150x150.jpg)
+![Иллюстрация к проекту](https://sempervita.typepad.com/.a/6a00d8341c570e53ef0134828d57b2970c-600wi)
 ### Необходимо создать REST-сервис для управления опросами.
 
 Структура данных:
